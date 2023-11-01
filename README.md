@@ -2,7 +2,8 @@
 - 👀 I’m interested in programming 
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me to Gmail 
+- 📫 How to reach me
+
 
 <!---
 Jojo1-3/Jojo1-3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
